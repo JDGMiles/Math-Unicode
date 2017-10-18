@@ -1,1 +1,1 @@
-var time=0;
+var basic=0;
